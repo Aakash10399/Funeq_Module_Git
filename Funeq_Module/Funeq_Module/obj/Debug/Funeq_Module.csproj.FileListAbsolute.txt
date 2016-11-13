@@ -1,0 +1,13 @@
+F:\Funeq_Module\Funeq_Module\Funeq_Module\bin\Debug\Funeq_Module.exe.config
+F:\Funeq_Module\Funeq_Module\Funeq_Module\bin\Debug\Funeq_Module.exe
+F:\Funeq_Module\Funeq_Module\Funeq_Module\bin\Debug\Funeq_Module.pdb
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.csprojResolveAssemblyReference.cache
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.Form1.resources
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.Properties.Resources.resources
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.csproj.GenerateResource.Cache
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.exe
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.pdb
+F:\Funeq_Module\Funeq_Module\Funeq_Module\bin\Debug\Funeq_Module.exe.manifest
+F:\Funeq_Module\Funeq_Module\Funeq_Module\bin\Debug\Funeq_Module.application
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.exe.manifest
+F:\Funeq_Module\Funeq_Module\Funeq_Module\obj\Debug\Funeq_Module.application
